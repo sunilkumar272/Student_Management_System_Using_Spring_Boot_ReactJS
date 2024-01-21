@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "FirstName": "John",
+      "LastName": "Doe",
+      "emailId": "john.doe@example.com"
+    },
+    {
+      "id": "2",
+      "FirstName": "Aaron",
+      "LastName": "Smith",
+      "emailId": "alice.smith@example.com"
+    },
+    {
+      "id": "3",
+      "FirstName": "Bob",
+      "LastName": "Smith",
+      "emailId": "bob.johnson@example.com"
+    },
+    {
+      "id": "2dd9",
+      "FirstName": "Muraga",
+      "LastName": "Kumaran",
+      "emailId": "Muaragakumaran@gmail.com"
+    },
+    {
+      "id": "3512",
+      "FirstName": "Souravdf",
+      "LastName": "Stanley",
+      "emailId": "sostany@yahoo.com"
+    }
+  ]
+}
